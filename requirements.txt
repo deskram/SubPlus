@@ -1,0 +1,11 @@
+urllib3==1.25.11
+cfscrape==2.0.7
+aiohttp
+asyncio
+certifi
+cfscrape
+colorama
+pyfiglet
+requests
+sublist3r
+termcolor
