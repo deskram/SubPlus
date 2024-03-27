@@ -11,10 +11,10 @@ cd SubPlus
 ```
 * on Powershell: `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned -Force`
 * setup Virtualenv: `pip install virtualenv`
-* Windows Powershell*: `virtualenv SubPlus`
-* Windows Powershell*: `.\SubPlus\Scripts\activate.ps1`
+* Windows Powershell: `virtualenv SubPlus`
+* Windows Powershell: `.\SubPlus\Scripts\activate.ps1`
 * Install Requirements `pip install -r requirements.txt`
-* Windows Powershell*: `py subplus.py -d domain.com` or `python subplus.py -d domain.com`
+* Windows Powershell: `py subplus.py -d domain.com` or `python subplus.py -d domain.com`
 ```python
 python subplus.py -d domain.com -su subs.txt
 ```
